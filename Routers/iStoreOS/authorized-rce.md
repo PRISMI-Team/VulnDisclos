@@ -1,4 +1,4 @@
-# iStoreOS router authenticated command splicing RCE (CVE-2026-78799)
+# iStoreOS router authenticated command splicing RCE (CVE-2026-78797)
 
 ## Summary
 The application fails to properly validate and sanitize user-controlled input before incorporating it into a system command. An authenticated attacker can craft malicious input to alter the intended command execution flow, potentially achieving arbitrary command execution and remote code execution on the affected system.
