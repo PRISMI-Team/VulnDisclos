@@ -17,7 +17,7 @@ A vulnerability in the Netcore B11 and other router (v1.3.241114.024540 and earl
 
 
 ## POC
-[exploit.py]([exploit.py)
+[exploit.py](exploit.py)
 
 ![alt text](image.png)
 
