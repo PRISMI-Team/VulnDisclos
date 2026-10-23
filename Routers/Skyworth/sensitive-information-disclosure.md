@@ -2,7 +2,8 @@
 
 ## Summary
 
-The application exposes a hidden factory interface without requiring authentication. An unauthenticated attacker may directly access the interface.
+A sensitive information disclosure vulnerability exists in the SKYWORTH SK-WR6640X Wi-Fi 6 Dual-Band Fiber Router (AX1800M), firmware version V1.0.3. Due to missing authentication controls, an unauthenticated remote attacker may access a hidden factory interface and obtain sensitive device information without valid credentials.
+
 
 ## Affected Product
 - Vendor: SKYWORTH
